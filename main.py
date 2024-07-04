@@ -1,1 +1,1 @@
-from analysis.analisis import *
+from analysis.analisisproducto import *
